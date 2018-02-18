@@ -6,7 +6,7 @@ Create FIT files for Garmin devices
 Couldn’t figure out how to build or run any of this from command line using javac or java :(
 
 1. Download & install IntelliJ IDEA from here: https://www.jetbrains.com/idea/download/
-2. git clone https://github.com/jpickup/GarminWorkoutCreator
+2. git clone https://github.com/90oak/GarminWorkoutCreator
 3. drag GarminWorkoutCreator.iml to intellij IDE to open
 4. run Build/build project
 5. navigate in IDE hierarchy to out/production/com/johnpickup/gui/ScheduleConverterForm.class
